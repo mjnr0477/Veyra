@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "expo-router/entry",
     "name": "Veyraa",
     "slug": "Veyraa",
     "version": "1.0.0",
